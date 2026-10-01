@@ -1,0 +1,1 @@
+window.DELEGATIONS=[{nom:"Deux-Savoie",code:"DARA73"},{nom:"Cantal, Loire, Haute-Loire",code:"DARA15"},{nom:"Drôme Ardèche",code:"DARA07"},{nom:"Isérois",code:"DARA38"},{nom:"Nord Auvergne",code:"DARA03"},{nom:"Rhône-Ain",code:"DARA01"}];

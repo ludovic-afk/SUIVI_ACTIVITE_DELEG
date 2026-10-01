@@ -1,0 +1,1 @@
+window.Security={esc:s=>{let d=document.createElement("div");d.textContent=s??"";return d.innerHTML},text:s=>String(s??"").replace(/[\u0000-\u001f]/g," ").slice(0,CFG.max),excel:s=>typeof s==="string"&&/^[=+\-@]/.test(s.trimStart())?"'"+s:s,clean:v=>v==null||Number.isNaN(v)?"":v};
